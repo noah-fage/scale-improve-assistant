@@ -8,7 +8,7 @@ A [plugdata](https://plugdata.org/) patch that lets you improvise melodies that 
 
 ## Demo
 
-> *Screen recording coming soon.*
+[Watch demo video](./demo.mp4)
 
 ---
 
