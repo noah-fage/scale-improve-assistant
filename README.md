@@ -8,7 +8,7 @@ A [plugdata](https://plugdata.org/) patch that lets you improvise melodies that 
 
 ## Demo
 
-[Watch demo video](./demo.mp4)
+[![Scale Improv Assistant Demo](https://img.youtube.com/vi/vCMpEJg1tWU/0.jpg)](https://www.youtube.com/watch?v=vCMpEJg1tWU)
 
 ---
 
