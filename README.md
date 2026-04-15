@@ -14,8 +14,10 @@ A [plugdata](https://plugdata.org/) patch that lets you improvise melodies that 
 
 ## Screenshots
 
-> *Patch screenshots coming soon.*
-
+![Main patch](./screenshot_main.png)
+![Scale Quantizer subpatch](./screenshot_quantizer.png)
+![Chord Lookup subpatch](./screenshot_chord.png)
+![UI Controls](./screenshot_ui.png)
 ---
 
 ## Objectives & Motivation
